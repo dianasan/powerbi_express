@@ -4,3 +4,4 @@ Conteúdo das aulas: </br>
 Dashboard de Vendas para PC e Mobile </br>
 Dashboard de Atendimento </br>
 Dashboard de Produtos </br>
+Dashboard de Análise de Perfil
